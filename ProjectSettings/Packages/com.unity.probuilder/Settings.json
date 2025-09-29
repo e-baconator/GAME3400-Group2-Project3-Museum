@@ -119,7 +119,7 @@
             {
                 "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "ShapeBuilder.ActiveShapeIndex",
-                "value": "{\"m_Value\":1}"
+                "value": "{\"m_Value\":7}"
             },
             {
                 "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -139,12 +139,12 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Cube",
-                "value": "{\"m_Value\":{\"x\":-3.55248761177063,\"y\":0.0,\"z\":4.1608052253723148}}"
+                "value": "{\"m_Value\":{\"x\":0.26700496673583987,\"y\":0.2505984902381897,\"z\":0.15931330621242524}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Cylinder",
-                "value": "{\"m_Value\":{\"x\":3.0,\"y\":0.20000000298023225,\"z\":1.0}}"
+                "value": "{\"m_Value\":{\"x\":0.3076033592224121,\"y\":0.11532975733280182,\"z\":0.8450214862823486}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -164,7 +164,7 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Arch",
-                "value": "{\"m_Value\":{\"x\":5.6776227951049809,\"y\":5.314265251159668,\"z\":1.9480538368225098}}"
+                "value": "{\"m_Value\":{\"x\":-0.8701014518737793,\"y\":0.7777518630027771,\"z\":2.144787549972534}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -174,7 +174,7 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Door",
-                "value": "{\"m_Value\":{\"x\":7.795676231384277,\"y\":3.0870089530944826,\"z\":-1.2742905616760255}}"
+                "value": "{\"m_Value\":{\"x\":0.9461669921875,\"y\":3.670428991317749,\"z\":3.1938276290893556}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
